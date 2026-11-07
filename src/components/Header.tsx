@@ -1,5 +1,5 @@
 import React from 'react';
-import { Pressable, StyleSheet, Text, View, useWindowDimensions } from 'react-native';
+import { Alert, Linking, Pressable, StyleSheet, Text, View, useWindowDimensions } from 'react-native';
 import { useLanguage } from '../state/LanguageContext';
 import { colors } from '../timeline/theme';
 import FilterChips from './FilterChips';
@@ -13,6 +13,25 @@ export default function Header({ filters, onChange, onSearchPress }: Props) {
   const { lang, toggle } = useLanguage();
   const { width, height } = useWindowDimensions();
   const isPortrait = height > width;
+  const openPage = (path: string) => {
+    Linking.openURL(`https://Giansingh4710.github.io/sikhtimeline/${path}`).catch(() => {
+      Alert.alert(
+        lang === 'pa' ? 'ਲਿੰਕ ਨਹੀਂ ਖੁੱਲ੍ਹ ਸਕਿਆ' : 'Unable to open link',
+        'giansingh4710@gmail.com',
+      );
+    });
+  };
+  const showInfo = () => Alert.alert(
+    lang === 'pa' ? 'ਜਾਣਕਾਰੀ' : 'About Sikh Timeline',
+    lang === 'pa'
+      ? 'ਸਿੱਖ ਇਤਿਹਾਸ ਅੰਗਰੇਜ਼ੀ ਅਤੇ ਪੰਜਾਬੀ ਵਿੱਚ।'
+      : 'Explore Sikh history in English and Punjabi.',
+    [
+      { text: lang === 'pa' ? 'ਪਰਦੇਦਾਰੀ ਨੀਤੀ' : 'Privacy policy', onPress: () => openPage('privacy.html') },
+      { text: lang === 'pa' ? 'ਸਹਾਇਤਾ' : 'Support', onPress: () => openPage('') },
+      { text: lang === 'pa' ? 'ਬੰਦ ਕਰੋ' : 'Close', style: 'cancel' },
+    ],
+  );
 
   const title = (
     <Text style={styles.title} numberOfLines={1}>
@@ -21,6 +40,10 @@ export default function Header({ filters, onChange, onSearchPress }: Props) {
   );
   const buttons = (
     <>
+      <Pressable style={styles.toggle} onPress={showInfo} hitSlop={8}
+        accessibilityRole="button" accessibilityLabel={lang === 'pa' ? 'ਜਾਣਕਾਰੀ ਅਤੇ ਪਰਦੇਦਾਰੀ' : 'Information and privacy'}>
+        <Text style={styles.toggleText}>ⓘ</Text>
+      </Pressable>
       <Pressable style={styles.toggle} onPress={onSearchPress} hitSlop={8}>
         <Text style={styles.toggleText}>🔍</Text>
       </Pressable>
