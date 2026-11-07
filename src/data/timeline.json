@@ -1,0 +1,2301 @@
+{
+  "people": [
+    {
+      "id": "guru-nanak",
+      "name": {
+        "pa": "ਸ੍ਰੀ ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+        "en": "Sri Guru Nanak Dev Ji"
+      },
+      "birth": 1469,
+      "death": 1539,
+      "category": "guru",
+      "guruId": "guru-nanak",
+      "wiki": "https://en.wikipedia.org/wiki/Guru_Nanak",
+      "details": [
+        {
+          "label": {
+            "pa": "ਪ੍ਰਕਾਸ਼",
+            "en": "Parkash"
+          },
+          "value": {
+            "pa": "੧੪੬੯, ਰਾਇ ਭੋਇ ਦੀ ਤਲਵੰਡੀ (ਨਨਕਾਣਾ ਸਾਹਿਬ)",
+            "en": "1469, Rai Bhoi di Talwandi (Nankana Sahib)"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਜੋਤੀ ਜੋਤਿ",
+            "en": "Joti Jot"
+          },
+          "value": {
+            "pa": "੧੫੩੯, ਕਰਤਾਰਪੁਰ ਸਾਹਿਬ",
+            "en": "1539, Kartarpur Sahib"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਪਿਤਾ",
+            "en": "Father"
+          },
+          "value": {
+            "pa": "ਕਲਿਆਣ ਚੰਦ ਜੀ",
+            "en": "Kalyan Chand Ji"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਮਾਤਾ",
+            "en": "Mother"
+          },
+          "value": {
+            "pa": "ਮਾਤਾ ਤ੍ਰਿਪਤਾ ਜੀ",
+            "en": "Mata Tripta Ji"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਮਹਿਲ",
+            "en": "Mahil"
+          },
+          "value": {
+            "pa": "ਮਾਤਾ ਸੁਲੱਖਣੀ ਜੀ",
+            "en": "Mata Sulakhni Ji"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਬਾਣੀ",
+            "en": "Bani"
+          },
+          "value": {
+            "pa": "ਜਪੁਜੀ, ਸਿਧ ਗੋਸਟਿ, ਦਖਣੀ ਓਅੰਕਾਰ, ਮਾਝ ਕੀ ਵਾਰ, ਮਲਾਰ ਕੀ ਵਾਰ, ਬਾਰਹ ਮਾਹਾ ਤੁਖਾਰੀ, ਪਟੀ — ੧੯ ਰਾਗਾਂ ਵਿੱਚ ੯੭੪ ਸ਼ਬਦ",
+            "en": "Japuji, Sidh Gosht, Dakhni Oankar, Majh ki Var, Malar ki Var, Barah Maha Tukhari, Patti — 974 shabads in 19 raags"
+          }
+        }
+      ]
+    },
+    {
+      "id": "guru-angad",
+      "name": {
+        "pa": "ਸ੍ਰੀ ਗੁਰੂ ਅੰਗਦ ਦੇਵ ਜੀ",
+        "en": "Sri Guru Angad Dev Ji"
+      },
+      "birth": 1504,
+      "death": 1552,
+      "category": "guru",
+      "guruId": "guru-angad",
+      "wiki": "https://en.wikipedia.org/wiki/Guru_Angad",
+      "details": [
+        {
+          "label": {
+            "pa": "ਪ੍ਰਕਾਸ਼",
+            "en": "Parkash"
+          },
+          "value": {
+            "pa": "੧੫੦੪, ਮੱਤੇ ਦੀ ਸਰ੍ਹਾਂ, ਮੁਕਤਸਰ",
+            "en": "1504, Matte di Sarai, Muktsar"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਗੁਰਗੱਦੀ",
+            "en": "Gurgaddi"
+          },
+          "value": {
+            "pa": "੧੫੩੯",
+            "en": "1539"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਜੋਤੀ ਜੋਤਿ",
+            "en": "Joti Jot"
+          },
+          "value": {
+            "pa": "੧੫੫੨, ਖਡੂਰ ਸਾਹਿਬ",
+            "en": "1552, Khadur Sahib"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਪਿਤਾ",
+            "en": "Father"
+          },
+          "value": {
+            "pa": "ਬਾਬਾ ਫੇਰੂ ਮੱਲ ਜੀ",
+            "en": "Baba Pheru Mal Ji"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਮਾਤਾ",
+            "en": "Mother"
+          },
+          "value": {
+            "pa": "ਮਾਤਾ ਦਯਾ ਕੌਰ ਜੀ",
+            "en": "Mata Daya Kaur Ji"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਮਹਿਲ",
+            "en": "Mahil"
+          },
+          "value": {
+            "pa": "ਮਾਤਾ ਖੀਵੀ ਜੀ",
+            "en": "Mata Khivi Ji"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਬਾਣੀ",
+            "en": "Bani"
+          },
+          "value": {
+            "pa": "੬੩ ਸਲੋਕ",
+            "en": "63 saloks"
+          }
+        }
+      ]
+    },
+    {
+      "id": "guru-amardas",
+      "name": {
+        "pa": "ਸ੍ਰੀ ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ",
+        "en": "Sri Guru Amardas Ji"
+      },
+      "birth": 1479,
+      "death": 1574,
+      "category": "guru",
+      "guruId": "guru-amardas",
+      "wiki": "https://en.wikipedia.org/wiki/Guru_Amar_Das",
+      "details": [
+        {
+          "label": {
+            "pa": "ਪ੍ਰਕਾਸ਼",
+            "en": "Parkash"
+          },
+          "value": {
+            "pa": "੧੪੭੯, ਬਾਸਰਕੇ, ਅੰਮ੍ਰਿਤਸਰ",
+            "en": "1479, Basarke, Amritsar"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਗੁਰਗੱਦੀ",
+            "en": "Gurgaddi"
+          },
+          "value": {
+            "pa": "੧੫੫੨",
+            "en": "1552"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਜੋਤੀ ਜੋਤਿ",
+            "en": "Joti Jot"
+          },
+          "value": {
+            "pa": "੧੫੭੪, ਗੋਇੰਦਵਾਲ ਸਾਹਿਬ",
+            "en": "1574, Goindwal Sahib"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਪਿਤਾ",
+            "en": "Father"
+          },
+          "value": {
+            "pa": "ਤੇਜ ਭਾਨ ਜੀ",
+            "en": "Tej Bhan Ji"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਮਾਤਾ",
+            "en": "Mother"
+          },
+          "value": {
+            "pa": "ਮਾਤਾ ਸੁਲੱਖਣੀ (ਲਛਮੀ) ਜੀ",
+            "en": "Mata Sulakhni (Lachmi) Ji"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਮਹਿਲ",
+            "en": "Mahil"
+          },
+          "value": {
+            "pa": "ਮਾਤਾ ਮਨਸਾ ਦੇਵੀ ਜੀ",
+            "en": "Mata Mansa Devi Ji"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਬਾਣੀ",
+            "en": "Bani"
+          },
+          "value": {
+            "pa": "ਅਨੰਦ ਸਾਹਿਬ, ੧੭ ਵਾਰਾਂ — ੧੭ ਰਾਗਾਂ ਵਿੱਚ ੯੦੭ ਸ਼ਬਦ",
+            "en": "Anand Sahib, 17 vars — 907 shabads in 17 raags"
+          }
+        }
+      ]
+    },
+    {
+      "id": "guru-ramdas",
+      "name": {
+        "pa": "ਸ੍ਰੀ ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+        "en": "Sri Guru Ram Das Ji"
+      },
+      "birth": 1534,
+      "death": 1581,
+      "category": "guru",
+      "guruId": "guru-ramdas",
+      "wiki": "https://en.wikipedia.org/wiki/Guru_Ram_Das",
+      "details": [
+        {
+          "label": {
+            "pa": "ਪ੍ਰਕਾਸ਼",
+            "en": "Parkash"
+          },
+          "value": {
+            "pa": "੧੫੩੪, ਚੂਨਾ ਮੰਡੀ, ਲਾਹੌਰ",
+            "en": "1534, Chuna Mandi, Lahore"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਗੁਰਗੱਦੀ",
+            "en": "Gurgaddi"
+          },
+          "value": {
+            "pa": "੧੫੭੪",
+            "en": "1574"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਜੋਤੀ ਜੋਤਿ",
+            "en": "Joti Jot"
+          },
+          "value": {
+            "pa": "੧੫੮੧, ਗੋਇੰਦਵਾਲ ਸਾਹਿਬ",
+            "en": "1581, Goindwal Sahib"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਪਿਤਾ",
+            "en": "Father"
+          },
+          "value": {
+            "pa": "ਹਰਿਦਾਸ ਜੀ",
+            "en": "Hardas Ji"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਮਾਤਾ",
+            "en": "Mother"
+          },
+          "value": {
+            "pa": "ਮਾਤਾ ਦਯਾ ਕੌਰ ਜੀ",
+            "en": "Mata Daya Kaur Ji"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਮਹਿਲ",
+            "en": "Mahil"
+          },
+          "value": {
+            "pa": "ਬੀਬੀ ਭਾਨੀ ਜੀ",
+            "en": "Bibi Bhani Ji"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਬਾਣੀ",
+            "en": "Bani"
+          },
+          "value": {
+            "pa": "ਲਾਵਾਂ, ਵਡਹੰਸ ਕੀ ਵਾਰ — ੩੦ ਰਾਗਾਂ ਵਿੱਚ ੬੭੯ ਸ਼ਬਦ",
+            "en": "Laavan, Vadhans ki Var — 679 shabads in 30 raags"
+          }
+        }
+      ]
+    },
+    {
+      "id": "guru-arjan",
+      "name": {
+        "pa": "ਸ੍ਰੀ ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+        "en": "Sri Guru Arjan Dev Ji"
+      },
+      "birth": 1563,
+      "death": 1606,
+      "category": "guru",
+      "guruId": "guru-arjan",
+      "wiki": "https://en.wikipedia.org/wiki/Guru_Arjan",
+      "details": [
+        {
+          "label": {
+            "pa": "ਪ੍ਰਕਾਸ਼",
+            "en": "Parkash"
+          },
+          "value": {
+            "pa": "੧੫੬੩, ਗੋਇੰਦਵਾਲ ਸਾਹਿਬ",
+            "en": "1563, Goindwal Sahib"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਗੁਰਗੱਦੀ",
+            "en": "Gurgaddi"
+          },
+          "value": {
+            "pa": "੧੫੮੧",
+            "en": "1581"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਜੋਤੀ ਜੋਤਿ",
+            "en": "Joti Jot"
+          },
+          "value": {
+            "pa": "੧੬੦੬, ਡੇਹਰਾ ਸਾਹਿਬ, ਲਾਹੌਰ",
+            "en": "1606, Dehra Sahib, Lahore"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਪਿਤਾ",
+            "en": "Father"
+          },
+          "value": {
+            "pa": "ਸ੍ਰੀ ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+            "en": "Sri Guru Ram Das Ji"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਮਾਤਾ",
+            "en": "Mother"
+          },
+          "value": {
+            "pa": "ਬੀਬੀ ਭਾਨੀ ਜੀ",
+            "en": "Bibi Bhani Ji"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਮਹਿਲ",
+            "en": "Mahil"
+          },
+          "value": {
+            "pa": "ਮਾਤਾ ਗੰਗਾ ਜੀ",
+            "en": "Mata Ganga Ji"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਬਾਣੀ",
+            "en": "Bani"
+          },
+          "value": {
+            "pa": "ਸੁਖਮਨੀ ਸਾਹਿਬ, ਬਾਰਹ ਮਾਹਾ ਮਾਝ, ਬਸੰਤ ਕੀ ਵਾਰ, ਬਾਵਨ ਅਖਰੀ, ਜੈਤਸਰੀ ਕੀ ਵਾਰ, ਰਾਗਮਾਲਾ — ੩੦ ਰਾਗਾਂ ਵਿੱਚ ੨੨੧੮ ਸ਼ਬਦ",
+            "en": "Sukhmani Sahib, Barah Maha Majh, Basant ki Var, Bavan Akhri, Jaitsari ki Var, Ragmala — 2218 shabads in 30 raags"
+          }
+        }
+      ]
+    },
+    {
+      "id": "guru-hargobind",
+      "name": {
+        "pa": "ਸ੍ਰੀ ਗੁਰੂ ਹਰਿਗੋਬਿੰਦ ਜੀ",
+        "en": "Sri Guru Hargobind Ji"
+      },
+      "birth": 1595,
+      "death": 1644,
+      "category": "guru",
+      "guruId": "guru-hargobind",
+      "wiki": "https://en.wikipedia.org/wiki/Guru_Hargobind",
+      "details": [
+        {
+          "label": {
+            "pa": "ਪ੍ਰਕਾਸ਼",
+            "en": "Parkash"
+          },
+          "value": {
+            "pa": "੧੫੯੫, ਗੁਰੂ ਕੀ ਵਡਾਲੀ, ਅੰਮ੍ਰਿਤਸਰ",
+            "en": "1595, Guru ki Wadali, Amritsar"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਗੁਰਗੱਦੀ",
+            "en": "Gurgaddi"
+          },
+          "value": {
+            "pa": "੧੬੦੬",
+            "en": "1606"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਜੋਤੀ ਜੋਤਿ",
+            "en": "Joti Jot"
+          },
+          "value": {
+            "pa": "੧੬੪੪, ਕੀਰਤਪੁਰ ਸਾਹਿਬ",
+            "en": "1644, Kiratpur Sahib"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਪਿਤਾ",
+            "en": "Father"
+          },
+          "value": {
+            "pa": "ਸ੍ਰੀ ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+            "en": "Sri Guru Arjan Dev Ji"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਮਾਤਾ",
+            "en": "Mother"
+          },
+          "value": {
+            "pa": "ਮਾਤਾ ਗੰਗਾ ਜੀ",
+            "en": "Mata Ganga Ji"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਮਹਿਲ",
+            "en": "Mahil"
+          },
+          "value": {
+            "pa": "ਮਾਤਾ ਦਮੋਦਰੀ ਜੀ, ਮਾਤਾ ਨਾਨਕੀ ਜੀ, ਮਾਤਾ ਮਹਾਦੇਵੀ ਜੀ",
+            "en": "Mata Damodari Ji, Mata Nanki Ji, Mata Mahadevi Ji"
+          }
+        }
+      ]
+    },
+    {
+      "id": "guru-harrai",
+      "name": {
+        "pa": "ਸ੍ਰੀ ਗੁਰੂ ਹਰਿਰਾਇ ਜੀ",
+        "en": "Sri Guru Har Rai Ji"
+      },
+      "birth": 1630,
+      "death": 1661,
+      "category": "guru",
+      "guruId": "guru-harrai",
+      "wiki": "https://en.wikipedia.org/wiki/Guru_Har_Rai",
+      "details": [
+        {
+          "label": {
+            "pa": "ਪ੍ਰਕਾਸ਼",
+            "en": "Parkash"
+          },
+          "value": {
+            "pa": "੧੬੩੦, ਕੀਰਤਪੁਰ ਸਾਹਿਬ",
+            "en": "1630, Kiratpur Sahib"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਗੁਰਗੱਦੀ",
+            "en": "Gurgaddi"
+          },
+          "value": {
+            "pa": "੧੬੪੪",
+            "en": "1644"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਜੋਤੀ ਜੋਤਿ",
+            "en": "Joti Jot"
+          },
+          "value": {
+            "pa": "੧੬੬੧, ਕੀਰਤਪੁਰ ਸਾਹਿਬ",
+            "en": "1661, Kiratpur Sahib"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਪਿਤਾ",
+            "en": "Father"
+          },
+          "value": {
+            "pa": "ਬਾਬਾ ਗੁਰਦਿੱਤਾ ਜੀ",
+            "en": "Baba Gurditta Ji"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਮਾਤਾ",
+            "en": "Mother"
+          },
+          "value": {
+            "pa": "ਮਾਤਾ ਨਿਹਾਲ ਕੌਰ ਜੀ",
+            "en": "Mata Nihal Kaur Ji"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਮਹਿਲ",
+            "en": "Mahil"
+          },
+          "value": {
+            "pa": "ਮਾਤਾ ਕ੍ਰਿਸ਼ਨ ਕੌਰ ਜੀ",
+            "en": "Mata Krishan Kaur Ji"
+          }
+        }
+      ]
+    },
+    {
+      "id": "guru-harkrishan",
+      "name": {
+        "pa": "ਸ੍ਰੀ ਗੁਰੂ ਹਰਿਕਿਸ਼ਨ ਜੀ",
+        "en": "Sri Guru Harkrishan Ji"
+      },
+      "birth": 1656,
+      "death": 1664,
+      "category": "guru",
+      "guruId": "guru-harkrishan",
+      "wiki": "https://en.wikipedia.org/wiki/Guru_Har_Krishan",
+      "details": [
+        {
+          "label": {
+            "pa": "ਪ੍ਰਕਾਸ਼",
+            "en": "Parkash"
+          },
+          "value": {
+            "pa": "੧੬੫੬, ਕੀਰਤਪੁਰ ਸਾਹਿਬ",
+            "en": "1656, Kiratpur Sahib"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਗੁਰਗੱਦੀ",
+            "en": "Gurgaddi"
+          },
+          "value": {
+            "pa": "੧੬੬੧",
+            "en": "1661"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਜੋਤੀ ਜੋਤਿ",
+            "en": "Joti Jot"
+          },
+          "value": {
+            "pa": "੧੬੬੪, ਦਿੱਲੀ",
+            "en": "1664, Delhi"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਪਿਤਾ",
+            "en": "Father"
+          },
+          "value": {
+            "pa": "ਸ੍ਰੀ ਗੁਰੂ ਹਰਿਰਾਇ ਜੀ",
+            "en": "Sri Guru Har Rai Ji"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਮਾਤਾ",
+            "en": "Mother"
+          },
+          "value": {
+            "pa": "ਮਾਤਾ ਕ੍ਰਿਸ਼ਨ ਕੌਰ ਜੀ",
+            "en": "Mata Krishan Kaur Ji"
+          }
+        }
+      ]
+    },
+    {
+      "id": "guru-teghbahadur",
+      "name": {
+        "pa": "ਸ੍ਰੀ ਗੁਰੂ ਤੇਗ ਬਹਾਦਰ ਜੀ",
+        "en": "Sri Guru Tegh Bahadur Ji"
+      },
+      "birth": 1621,
+      "death": 1675,
+      "category": "guru",
+      "guruId": "guru-teghbahadur",
+      "wiki": "https://en.wikipedia.org/wiki/Guru_Tegh_Bahadur",
+      "details": [
+        {
+          "label": {
+            "pa": "ਪ੍ਰਕਾਸ਼",
+            "en": "Parkash"
+          },
+          "value": {
+            "pa": "੧੬੨੧, ਗੁਰੂ ਕੇ ਮਹਿਲ, ਅੰਮ੍ਰਿਤਸਰ",
+            "en": "1621, Guru ke Mahil, Amritsar"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਗੁਰਗੱਦੀ",
+            "en": "Gurgaddi"
+          },
+          "value": {
+            "pa": "੧੬੬੪",
+            "en": "1664"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਜੋਤੀ ਜੋਤਿ",
+            "en": "Joti Jot"
+          },
+          "value": {
+            "pa": "੧੬੭੫, ਦਿੱਲੀ",
+            "en": "1675, Delhi"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਪਿਤਾ",
+            "en": "Father"
+          },
+          "value": {
+            "pa": "ਸ੍ਰੀ ਗੁਰੂ ਹਰਿਗੋਬਿੰਦ ਜੀ",
+            "en": "Sri Guru Hargobind Ji"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਮਾਤਾ",
+            "en": "Mother"
+          },
+          "value": {
+            "pa": "ਮਾਤਾ ਨਾਨਕੀ ਜੀ",
+            "en": "Mata Nanki Ji"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਮਹਿਲ",
+            "en": "Mahil"
+          },
+          "value": {
+            "pa": "ਮਾਤਾ ਗੁਜਰੀ ਜੀ",
+            "en": "Mata Gujri Ji"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਬਾਣੀ",
+            "en": "Bani"
+          },
+          "value": {
+            "pa": "੧੫ ਰਾਗਾਂ ਵਿੱਚ ੫੯ ਸ਼ਬਦ, ੫੭ ਸ਼ਲੋਕ",
+            "en": "59 shabads in 15 raags, 57 saloks"
+          }
+        }
+      ]
+    },
+    {
+      "id": "guru-gobindsingh",
+      "name": {
+        "pa": "ਸ੍ਰੀ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਜੀ",
+        "en": "Sri Guru Gobind Singh Ji"
+      },
+      "birth": 1666,
+      "death": 1708,
+      "category": "guru",
+      "guruId": "guru-gobindsingh",
+      "wiki": "https://en.wikipedia.org/wiki/Guru_Gobind_Singh",
+      "details": [
+        {
+          "label": {
+            "pa": "ਪ੍ਰਕਾਸ਼",
+            "en": "Parkash"
+          },
+          "value": {
+            "pa": "੧੬੬੬, ਪਟਨਾ ਸਾਹਿਬ",
+            "en": "1666, Patna Sahib"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਗੁਰਗੱਦੀ",
+            "en": "Gurgaddi"
+          },
+          "value": {
+            "pa": "੧੬੭੫",
+            "en": "1675"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਜੋਤੀ ਜੋਤਿ",
+            "en": "Joti Jot"
+          },
+          "value": {
+            "pa": "੧੭੦੮, ਹਜ਼ੂਰ ਸਾਹਿਬ, ਨਾਂਦੇੜ",
+            "en": "1708, Hazur Sahib, Nanded"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਪਿਤਾ",
+            "en": "Father"
+          },
+          "value": {
+            "pa": "ਸ੍ਰੀ ਗੁਰੂ ਤੇਗ ਬਹਾਦਰ ਜੀ",
+            "en": "Sri Guru Tegh Bahadur Ji"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਮਾਤਾ",
+            "en": "Mother"
+          },
+          "value": {
+            "pa": "ਮਾਤਾ ਗੁਜਰੀ ਜੀ",
+            "en": "Mata Gujri Ji"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਮਹਿਲ",
+            "en": "Mahil"
+          },
+          "value": {
+            "pa": "ਮਾਤਾ ਜੀਤ ਕੌਰ ਜੀ, ਮਾਤਾ ਸੁੰਦਰ ਕੌਰ ਜੀ, ਮਾਤਾ ਸਾਹਿਬ ਕੌਰ ਜੀ",
+            "en": "Mata Jeet Kaur Ji, Mata Sundar Kaur Ji, Mata Sahib Kaur Ji"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਬਾਣੀ",
+            "en": "Bani"
+          },
+          "value": {
+            "pa": "ਜਾਪ ਸਾਹਿਬ, ਸਵੱਈਏ, ਚੌਪਈ ਸਾਹਿਬ, ਅਕਾਲ ਉਸਤਤਿ, ਬਚਿੱਤਰ ਨਾਟਕ, ਸ਼ਬਦ ਹਜ਼ਾਰੇ, ਜ਼ਫਰਨਾਮਾ",
+            "en": "Jaap Sahib, Swaiye, Chaupai Sahib, Akal Ustat, Bachittar Natak, Shabad Hazare, Zafarnama"
+          }
+        }
+      ]
+    },
+    {
+      "id": "guru-granth-sahib",
+      "name": {
+        "pa": "ਆਦਿ ਸ੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ",
+        "en": "Aad Sri Guru Granth Sahib Ji"
+      },
+      "birth": 1604,
+      "death": null,
+      "category": "granth",
+      "guruId": "guru-granth-sahib",
+      "wiki": "https://en.wikipedia.org/wiki/Guru_Granth_Sahib",
+      "details": [
+        {
+          "label": {
+            "pa": "ਪਹਿਲਾ ਪ੍ਰਕਾਸ਼",
+            "en": "First Parkash"
+          },
+          "value": {
+            "pa": "੧੬੦੪, ਅੰਮ੍ਰਿਤਸਰ ਸਾਹਿਬ",
+            "en": "1604, Amritsar Sahib"
+          }
+        },
+        {
+          "label": {
+            "pa": "ਗੁਰਗੱਦੀ",
+            "en": "Gurgaddi"
+          },
+          "value": {
+            "pa": "੧੭੦੮, ਨਾਂਦੇੜ, ਮਹਾਰਾਸ਼ਟਰ",
+            "en": "1708, Nanded, Maharashtra"
+          }
+        }
+      ]
+    },
+    {
+      "id": "shivram-bedi",
+      "name": {
+        "pa": "ਸ਼ਿਵਰਾਮ ਬੇਦੀ ਜੀ",
+        "en": "Sri Shivram Bedi Ji"
+      },
+      "birth": 1417,
+      "death": 1487,
+      "category": "family",
+      "relation": {
+        "pa": "ਦਾਦਾ",
+        "en": "Grandfather"
+      },
+      "guruId": "guru-nanak"
+    },
+    {
+      "id": "mata-banarasi",
+      "name": {
+        "pa": "ਮਾਤਾ ਬਨਾਰਸੀ ਜੀ",
+        "en": "Mata Banarasi Ji"
+      },
+      "birth": 1420,
+      "death": 1482,
+      "category": "family",
+      "relation": {
+        "pa": "ਦਾਦੀ",
+        "en": "Grandmother"
+      },
+      "guruId": "guru-nanak"
+    },
+    {
+      "id": "kalyan-chand",
+      "name": {
+        "pa": "ਕਲਿਆਣ ਚੰਦ ਜੀ",
+        "en": "Kalyan Chand Ji"
+      },
+      "birth": 1440,
+      "death": 1522,
+      "category": "family",
+      "relation": {
+        "pa": "ਪਿਤਾ",
+        "en": "Father"
+      },
+      "guruId": "guru-nanak"
+    },
+    {
+      "id": "mata-tripta",
+      "name": {
+        "pa": "ਮਾਤਾ ਤ੍ਰਿਪਤਾ ਜੀ",
+        "en": "Mata Tripta Ji"
+      },
+      "birth": 1442,
+      "death": 1522,
+      "category": "family",
+      "relation": {
+        "pa": "ਮਾਤਾ",
+        "en": "Mother"
+      },
+      "guruId": "guru-nanak"
+    },
+    {
+      "id": "bebe-nanaki",
+      "name": {
+        "pa": "ਬੇਬੇ ਨਾਨਕੀ ਜੀ",
+        "en": "Bebe Nanaki Ji"
+      },
+      "birth": 1464,
+      "death": 1518,
+      "category": "family",
+      "relation": {
+        "pa": "ਭੈਣ",
+        "en": "Sister"
+      },
+      "guruId": "guru-nanak",
+      "wiki": "https://en.wikipedia.org/wiki/Bebe_Nanaki"
+    },
+    {
+      "id": "mata-sulakhni",
+      "name": {
+        "pa": "ਮਾਤਾ ਸੁਲੱਖਣੀ ਜੀ",
+        "en": "Mata Sulakhni Ji"
+      },
+      "birth": 1471,
+      "death": 1539,
+      "category": "family",
+      "relation": {
+        "pa": "ਮਹਿਲ",
+        "en": "Wife"
+      },
+      "guruId": "guru-nanak"
+    },
+    {
+      "id": "baba-sri-chand",
+      "name": {
+        "pa": "ਬਾਬਾ ਸ੍ਰੀ ਚੰਦ ਜੀ",
+        "en": "Baba Sri Chand Ji"
+      },
+      "birth": 1494,
+      "death": 1619,
+      "category": "family",
+      "relation": {
+        "pa": "ਸਪੁੱਤ੍ਰ",
+        "en": "Son"
+      },
+      "guruId": "guru-nanak",
+      "wiki": "https://en.wikipedia.org/wiki/Sri_Chand"
+    },
+    {
+      "id": "baba-lakhmi-das",
+      "name": {
+        "pa": "ਬਾਬਾ ਲਖਮੀ ਦਾਸ ਜੀ",
+        "en": "Baba Lakhmi Das Ji"
+      },
+      "birth": 1496,
+      "death": 1520,
+      "category": "family",
+      "relation": {
+        "pa": "ਸਪੁੱਤ੍ਰ",
+        "en": "Son"
+      },
+      "guruId": "guru-nanak"
+    },
+    {
+      "id": "parsae-mal",
+      "name": {
+        "pa": "ਪਰਸੈ ਮਲ ਜੀ",
+        "en": "Sri Parsae Mal Ji"
+      },
+      "birth": 1459,
+      "death": 1522,
+      "category": "family",
+      "relation": {
+        "pa": "ਦਾਦਾ",
+        "en": "Grandfather"
+      },
+      "guruId": "guru-angad"
+    },
+    {
+      "id": "kanchan-deyi",
+      "name": {
+        "pa": "ਕੰਚਨ ਦੇਈ ਜੀ",
+        "en": "Kanchan Deyi Ji"
+      },
+      "birth": 1462,
+      "death": 1524,
+      "category": "family",
+      "relation": {
+        "pa": "ਦਾਦੀ",
+        "en": "Grandmother"
+      },
+      "guruId": "guru-angad"
+    },
+    {
+      "id": "pheru-mal",
+      "name": {
+        "pa": "ਫੇਰੂ ਮਲ ਜੀ",
+        "en": "Pheru Mal Ji"
+      },
+      "birth": 1480,
+      "death": 1526,
+      "category": "family",
+      "relation": {
+        "pa": "ਪਿਤਾ",
+        "en": "Father"
+      },
+      "guruId": "guru-angad"
+    },
+    {
+      "id": "mata-daya-kaur-sabhrai",
+      "name": {
+        "pa": "ਮਾਤਾ ਦਯਾ ਕੌਰ (ਸਭਰਾਈ) ਜੀ",
+        "en": "Mata Daya Kaur (Sabhrai) Ji"
+      },
+      "birth": 1482,
+      "death": 1526,
+      "category": "family",
+      "relation": {
+        "pa": "ਮਾਤਾ",
+        "en": "Mother"
+      },
+      "guruId": "guru-angad"
+    },
+    {
+      "id": "mata-khivi",
+      "name": {
+        "pa": "ਮਾਤਾ ਖੀਵੀ ਜੀ",
+        "en": "Mata Khivi Ji"
+      },
+      "birth": 1506,
+      "death": 1571,
+      "category": "family",
+      "relation": {
+        "pa": "ਮਹਿਲ",
+        "en": "Wife"
+      },
+      "guruId": "guru-angad",
+      "wiki": "https://en.wikipedia.org/wiki/Mata_Khivi"
+    },
+    {
+      "id": "bibi-amro",
+      "name": {
+        "pa": "ਬੀਬੀ ਅਮਰੋ ਜੀ",
+        "en": "Bibi Amro Ji"
+      },
+      "birth": 1524,
+      "death": 1590,
+      "category": "family",
+      "relation": {
+        "pa": "ਧੀ",
+        "en": "Daughter"
+      },
+      "guruId": "guru-angad"
+    },
+    {
+      "id": "baba-dasu",
+      "name": {
+        "pa": "ਬਾਬਾ ਦਾਸੂ ਜੀ",
+        "en": "Baba Dasu Ji"
+      },
+      "birth": 1526,
+      "death": 1596,
+      "category": "family",
+      "relation": {
+        "pa": "ਸਪੁੱਤ੍ਰ",
+        "en": "Son"
+      },
+      "guruId": "guru-angad"
+    },
+    {
+      "id": "baba-datu",
+      "name": {
+        "pa": "ਬਾਬਾ ਦਾਤੂ ਜੀ",
+        "en": "Baba Datu Ji"
+      },
+      "birth": 1528,
+      "death": 1594,
+      "category": "family",
+      "relation": {
+        "pa": "ਸਪੁੱਤ੍ਰ",
+        "en": "Son"
+      },
+      "guruId": "guru-angad"
+    },
+    {
+      "id": "bibi-anokhi",
+      "name": {
+        "pa": "ਬੀਬੀ ਅਣੋਖੀ ਜੀ",
+        "en": "Bibi Anokhi Ji"
+      },
+      "birth": 1531,
+      "death": 1597,
+      "category": "family",
+      "relation": {
+        "pa": "ਧੀ",
+        "en": "Daughter"
+      },
+      "guruId": "guru-angad"
+    },
+    {
+      "id": "jamna-das",
+      "name": {
+        "pa": "ਜਮਨਾ ਦਾਸ ਭਲਾ ਜੀ",
+        "en": "Jamna Das Bhala Ji"
+      },
+      "birth": 1429,
+      "death": 1504,
+      "category": "family",
+      "relation": {
+        "pa": "ਦਾਦਾ",
+        "en": "Grandfather"
+      },
+      "guruId": "guru-amardas"
+    },
+    {
+      "id": "sangti-deyi",
+      "name": {
+        "pa": "ਸੰਗਤੀ ਦੇਈ (ਸੰਗੋ) ਜੀ",
+        "en": "Sangti Deyi (Sango) Ji"
+      },
+      "birth": 1431,
+      "death": 1499,
+      "category": "family",
+      "relation": {
+        "pa": "ਦਾਦੀ",
+        "en": "Grandmother"
+      },
+      "guruId": "guru-amardas"
+    },
+    {
+      "id": "tej-bhan",
+      "name": {
+        "pa": "ਤੇਜ ਭਾਨ ਜੀ",
+        "en": "Tej Bhan Ji"
+      },
+      "birth": 1458,
+      "death": 1533,
+      "category": "family",
+      "relation": {
+        "pa": "ਪਿਤਾ",
+        "en": "Father"
+      },
+      "guruId": "guru-amardas"
+    },
+    {
+      "id": "lakshmi-deyi",
+      "name": {
+        "pa": "ਮਾਤਾ ਲਛਮੀ ਦੇਈ ਜੀ",
+        "en": "Mata Lakshmi Deyi Ji"
+      },
+      "birth": 1460,
+      "death": 1533,
+      "category": "family",
+      "relation": {
+        "pa": "ਮਾਤਾ",
+        "en": "Mother"
+      },
+      "guruId": "guru-amardas"
+    },
+    {
+      "id": "mata-mansa-deyi",
+      "name": {
+        "pa": "ਮਾਤਾ ਮਨਸਾ ਦੇਈ ਜੀ",
+        "en": "Mata Mansa Deyi Ji"
+      },
+      "birth": 1481,
+      "death": 1573,
+      "category": "family",
+      "relation": {
+        "pa": "ਮਹਿਲ",
+        "en": "Wife"
+      },
+      "guruId": "guru-amardas"
+    },
+    {
+      "id": "bibi-dani",
+      "name": {
+        "pa": "ਬੀਬੀ ਦਾਨੀ ਜੀ",
+        "en": "Bibi Dani Ji"
+      },
+      "birth": 1532,
+      "death": 1592,
+      "category": "family",
+      "relation": {
+        "pa": "ਧੀ",
+        "en": "Daughter"
+      },
+      "guruId": "guru-amardas"
+    },
+    {
+      "id": "bibi-bhani",
+      "name": {
+        "pa": "ਬੀਬੀ ਭਾਨੀ ਜੀ",
+        "en": "Bibi Bhani Ji"
+      },
+      "birth": 1534,
+      "death": 1606,
+      "category": "family",
+      "relation": {
+        "pa": "ਧੀ · ਮਹਿਲ ਸ੍ਰੀ ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ",
+        "en": "Daughter · Wife of Sri Guru Ram Das Ji"
+      },
+      "guruId": "guru-amardas",
+      "wiki": "https://en.wikipedia.org/wiki/Bibi_Bhani",
+      "relationIsComplete": true
+    },
+    {
+      "id": "baba-mohan",
+      "name": {
+        "pa": "ਬਾਬਾ ਮੋਹਨ ਜੀ",
+        "en": "Baba Mohan Ji"
+      },
+      "birth": 1536,
+      "death": 1618,
+      "category": "family",
+      "relation": {
+        "pa": "ਸਪੁੱਤ੍ਰ",
+        "en": "Son"
+      },
+      "guruId": "guru-amardas"
+    },
+    {
+      "id": "baba-mohari",
+      "name": {
+        "pa": "ਬਾਬਾ ਮੋਹਰੀ ਜੀ",
+        "en": "Baba Mohari Ji"
+      },
+      "birth": 1538,
+      "death": 1616,
+      "category": "family",
+      "relation": {
+        "pa": "ਸਪੁੱਤ੍ਰ",
+        "en": "Son"
+      },
+      "guruId": "guru-amardas"
+    },
+    {
+      "id": "thakur-das",
+      "name": {
+        "pa": "ਠਾਕੁਰ ਦਾਸ ਜੀ",
+        "en": "Thakur Das Ji"
+      },
+      "birth": 1490,
+      "death": 1530,
+      "category": "family",
+      "relation": {
+        "pa": "ਦਾਦਾ",
+        "en": "Grandfather"
+      },
+      "guruId": "guru-ramdas"
+    },
+    {
+      "id": "bagesheri-deyi",
+      "name": {
+        "pa": "ਬਗੇਸ਼ਰੀ ਦੇਈ ਜੀ",
+        "en": "Bagesheri Deyi Ji"
+      },
+      "birth": 1493,
+      "death": 1532,
+      "category": "family",
+      "relation": {
+        "pa": "ਦਾਦੀ",
+        "en": "Grandmother"
+      },
+      "guruId": "guru-ramdas"
+    },
+    {
+      "id": "hardas",
+      "name": {
+        "pa": "ਹਰਿਦਾਸ ਜੀ",
+        "en": "Sri Hardas Ji"
+      },
+      "birth": 1512,
+      "death": 1541,
+      "category": "family",
+      "relation": {
+        "pa": "ਪਿਤਾ",
+        "en": "Father"
+      },
+      "guruId": "guru-ramdas"
+    },
+    {
+      "id": "mata-daya-kaur",
+      "name": {
+        "pa": "ਮਾਤਾ ਦਯਾ ਕੌਰ ਜੀ",
+        "en": "Mata Daya Kaur Ji"
+      },
+      "birth": 1514,
+      "death": 1539,
+      "category": "family",
+      "relation": {
+        "pa": "ਮਾਤਾ",
+        "en": "Mother"
+      },
+      "guruId": "guru-ramdas"
+    },
+    {
+      "id": "baba-prithvi-chand",
+      "name": {
+        "pa": "ਬਾਬਾ ਪ੍ਰਿਥੀ ਚੰਦ ਜੀ",
+        "en": "Baba Prithvi Chand Ji"
+      },
+      "birth": 1558,
+      "death": 1618,
+      "category": "family",
+      "relation": {
+        "pa": "ਸਪੁੱਤ੍ਰ",
+        "en": "Son"
+      },
+      "guruId": "guru-ramdas"
+    },
+    {
+      "id": "baba-mahadev",
+      "name": {
+        "pa": "ਬਾਬਾ ਮਹਾਂਦੇਵ ਜੀ",
+        "en": "Baba Mahadev Ji"
+      },
+      "birth": 1560,
+      "death": 1605,
+      "category": "family",
+      "relation": {
+        "pa": "ਸਪੁੱਤ੍ਰ",
+        "en": "Son"
+      },
+      "guruId": "guru-ramdas"
+    },
+    {
+      "id": "mata-ganga",
+      "name": {
+        "pa": "ਮਾਤਾ ਗੰਗਾ ਜੀ",
+        "en": "Mata Ganga Ji"
+      },
+      "birth": 1565,
+      "death": 1628,
+      "category": "family",
+      "relation": {
+        "pa": "ਮਹਿਲ",
+        "en": "Wife"
+      },
+      "guruId": "guru-arjan"
+    },
+    {
+      "id": "mata-damodari",
+      "name": {
+        "pa": "ਮਾਤਾ ਦਮੋਦਰੀ ਜੀ",
+        "en": "Mata Damodari Ji"
+      },
+      "birth": 1596,
+      "death": 1631,
+      "category": "family",
+      "relation": {
+        "pa": "ਮਹਿਲ",
+        "en": "Wife"
+      },
+      "guruId": "guru-hargobind"
+    },
+    {
+      "id": "mata-mahadeyi",
+      "name": {
+        "pa": "ਮਾਤਾ ਮਹਾਂਦੇਈ ਜੀ",
+        "en": "Mata Mahadeyi Ji"
+      },
+      "birth": 1597,
+      "death": 1645,
+      "category": "family",
+      "relation": {
+        "pa": "ਮਹਿਲ",
+        "en": "Wife"
+      },
+      "guruId": "guru-hargobind"
+    },
+    {
+      "id": "mata-nanki",
+      "name": {
+        "pa": "ਮਾਤਾ ਨਾਨਕੀ ਜੀ",
+        "en": "Mata Nanki Ji"
+      },
+      "birth": 1598,
+      "death": 1678,
+      "category": "family",
+      "relation": {
+        "pa": "ਮਹਿਲ",
+        "en": "Wife"
+      },
+      "guruId": "guru-hargobind"
+    },
+    {
+      "id": "baba-gurditta",
+      "name": {
+        "pa": "ਬਾਬਾ ਗੁਰਦਿੱਤਾ ਜੀ",
+        "en": "Baba Gurditta Ji"
+      },
+      "birth": 1613,
+      "death": 1638,
+      "category": "family",
+      "relation": {
+        "pa": "ਸਪੁੱਤ੍ਰ",
+        "en": "Son"
+      },
+      "guruId": "guru-hargobind",
+      "wiki": "https://en.wikipedia.org/wiki/Baba_Gurditta"
+    },
+    {
+      "id": "bibi-viro",
+      "name": {
+        "pa": "ਬੀਬੀ ਵੀਰੋ ਜੀ",
+        "en": "Bibi Viro Ji"
+      },
+      "birth": 1615,
+      "death": 1688,
+      "category": "family",
+      "relation": {
+        "pa": "ਧੀ",
+        "en": "Daughter"
+      },
+      "guruId": "guru-hargobind"
+    },
+    {
+      "id": "baba-suraj-mal",
+      "name": {
+        "pa": "ਬਾਬਾ ਸੂਰਜ ਮੱਲ ਜੀ",
+        "en": "Baba Suraj Mal Ji"
+      },
+      "birth": 1617,
+      "death": 1687,
+      "category": "family",
+      "relation": {
+        "pa": "ਸਪੁੱਤ੍ਰ",
+        "en": "Son"
+      },
+      "guruId": "guru-hargobind"
+    },
+    {
+      "id": "baba-ani-rai",
+      "name": {
+        "pa": "ਬਾਬਾ ਅਣੀ ਰਾਏ ਜੀ",
+        "en": "Baba Ani Rai Ji"
+      },
+      "birth": 1618,
+      "death": 1635,
+      "category": "family",
+      "relation": {
+        "pa": "ਸਪੁੱਤ੍ਰ",
+        "en": "Son"
+      },
+      "guruId": "guru-hargobind"
+    },
+    {
+      "id": "baba-atal-rai",
+      "name": {
+        "pa": "ਬਾਬਾ ਅਟੱਲ ਰਾਏ ਜੀ",
+        "en": "Baba Atal Rai Ji"
+      },
+      "birth": 1619,
+      "death": 1628,
+      "category": "family",
+      "relation": {
+        "pa": "ਸਪੁੱਤ੍ਰ",
+        "en": "Son"
+      },
+      "guruId": "guru-hargobind",
+      "wiki": "https://en.wikipedia.org/wiki/Baba_Atal"
+    },
+    {
+      "id": "mata-nihal-kaur",
+      "name": {
+        "pa": "ਮਾਤਾ ਨਿਹਾਲ ਕੌਰ ਜੀ",
+        "en": "Mata Nihal Kaur Ji"
+      },
+      "birth": 1613,
+      "death": 1680,
+      "category": "family",
+      "relation": {
+        "pa": "ਮਾਤਾ",
+        "en": "Mother"
+      },
+      "guruId": "guru-harrai"
+    },
+    {
+      "id": "mata-kishan-kaur",
+      "name": {
+        "pa": "ਮਾਤਾ ਕਿਸ਼ਨ ਕੌਰ ਜੀ",
+        "en": "Mata Kishan Kaur Ji"
+      },
+      "birth": 1632,
+      "death": 1687,
+      "category": "family",
+      "relation": {
+        "pa": "ਮਹਿਲ",
+        "en": "Wife"
+      },
+      "guruId": "guru-harrai"
+    },
+    {
+      "id": "baba-ram-rai",
+      "name": {
+        "pa": "ਬਾਬਾ ਰਾਮ ਰਾਏ ਜੀ",
+        "en": "Baba Ram Rai Ji"
+      },
+      "birth": 1654,
+      "death": 1687,
+      "category": "family",
+      "relation": {
+        "pa": "ਸਪੁੱਤ੍ਰ",
+        "en": "Son"
+      },
+      "guruId": "guru-harrai",
+      "wiki": "https://en.wikipedia.org/wiki/Ram_Rai"
+    },
+    {
+      "id": "mata-gujri",
+      "name": {
+        "pa": "ਮਾਤਾ ਗੁਜਰੀ ਕੌਰ ਜੀ",
+        "en": "Mata Gujri Kaur Ji"
+      },
+      "birth": 1624,
+      "death": 1704,
+      "category": "family",
+      "relation": {
+        "pa": "ਮਹਿਲ",
+        "en": "Wife"
+      },
+      "guruId": "guru-teghbahadur",
+      "wiki": "https://en.wikipedia.org/wiki/Mata_Gujri"
+    },
+    {
+      "id": "mata-ajit-kaur",
+      "name": {
+        "pa": "ਮਾਤਾ ਅਜੀਤ ਕੌਰ (ਜੀਤੋ) ਜੀ",
+        "en": "Mata Ajit Kaur (Jeeto) Ji"
+      },
+      "birth": 1668,
+      "death": 1700,
+      "category": "family",
+      "relation": {
+        "pa": "ਮਹਿਲ",
+        "en": "Wife"
+      },
+      "guruId": "guru-gobindsingh",
+      "wiki": "https://en.wikipedia.org/wiki/Mata_Jito"
+    },
+    {
+      "id": "mata-sahib-kaur",
+      "name": {
+        "pa": "ਮਾਤਾ ਸਾਹਿਬ ਕੌਰ ਜੀ",
+        "en": "Mata Sahib Kaur Ji"
+      },
+      "birth": 1672,
+      "death": 1713,
+      "category": "family",
+      "relation": {
+        "pa": "ਮਹਿਲ",
+        "en": "Wife"
+      },
+      "guruId": "guru-gobindsingh",
+      "wiki": "https://en.wikipedia.org/wiki/Mata_Sahib_Devan"
+    },
+    {
+      "id": "mata-sundar-kaur",
+      "name": {
+        "pa": "ਮਾਤਾ ਸੁੰਦਰ ਕੌਰ (ਸੁੰਦਰੀ) ਜੀ",
+        "en": "Mata Sundar Kaur (Sundari) Ji"
+      },
+      "birth": 1680,
+      "death": 1747,
+      "category": "family",
+      "relation": {
+        "pa": "ਮਹਿਲ",
+        "en": "Wife"
+      },
+      "guruId": "guru-gobindsingh",
+      "wiki": "https://en.wikipedia.org/wiki/Mata_Sundari"
+    },
+    {
+      "id": "baba-ajit-singh",
+      "name": {
+        "pa": "ਬਾਬਾ ਅਜੀਤ ਸਿੰਘ ਜੀ",
+        "en": "Sahibzada Baba Ajit Singh Ji"
+      },
+      "birth": 1687,
+      "death": 1704,
+      "category": "family",
+      "relation": {
+        "pa": "ਸਪੁੱਤ੍ਰ",
+        "en": "Son"
+      },
+      "guruId": "guru-gobindsingh",
+      "wiki": "https://en.wikipedia.org/wiki/Ajit_Singh_(Sikhism)"
+    },
+    {
+      "id": "baba-jujhar-singh",
+      "name": {
+        "pa": "ਬਾਬਾ ਜੁਝਾਰ ਸਿੰਘ ਜੀ",
+        "en": "Sahibzada Baba Jujhar Singh Ji"
+      },
+      "birth": 1690,
+      "death": 1704,
+      "category": "family",
+      "relation": {
+        "pa": "ਸਪੁੱਤ੍ਰ",
+        "en": "Son"
+      },
+      "guruId": "guru-gobindsingh",
+      "wiki": "https://en.wikipedia.org/wiki/Jujhar_Singh_(Sikhism)"
+    },
+    {
+      "id": "baba-jorawar-singh",
+      "name": {
+        "pa": "ਬਾਬਾ ਜੋਰਾਵਰ ਸਿੰਘ ਜੀ",
+        "en": "Sahibzada Baba Zorawar Singh Ji"
+      },
+      "birth": 1696,
+      "death": 1704,
+      "category": "family",
+      "relation": {
+        "pa": "ਸਪੁੱਤ੍ਰ",
+        "en": "Son"
+      },
+      "guruId": "guru-gobindsingh",
+      "wiki": "https://en.wikipedia.org/wiki/Zorawar_Singh_(Sikhism)"
+    },
+    {
+      "id": "baba-fateh-singh",
+      "name": {
+        "pa": "ਬਾਬਾ ਫਤਹਿ ਸਿੰਘ ਜੀ",
+        "en": "Sahibzada Baba Fateh Singh Ji"
+      },
+      "birth": 1699,
+      "death": 1704,
+      "category": "family",
+      "relation": {
+        "pa": "ਸਪੁੱਤ੍ਰ",
+        "en": "Son"
+      },
+      "guruId": "guru-gobindsingh",
+      "wiki": "https://en.wikipedia.org/wiki/Fateh_Singh_(Sikhism)"
+    },
+    {
+      "id": "bhai-mardana",
+      "name": {
+        "pa": "ਭਾਈ ਮਰਦਾਨਾ ਜੀ",
+        "en": "Bhai Mardana Ji"
+      },
+      "birth": 1459,
+      "death": 1534,
+      "category": "gursikh",
+      "guruId": "guru-nanak",
+      "wiki": "https://en.wikipedia.org/wiki/Bhai_Mardana"
+    },
+    {
+      "id": "bhai-bala",
+      "name": {
+        "pa": "ਭਾਈ ਬਾਲਾ ਜੀ",
+        "en": "Bhai Bala Ji"
+      },
+      "birth": 1466,
+      "death": 1544,
+      "category": "gursikh",
+      "guruId": "guru-nanak",
+      "wiki": "https://en.wikipedia.org/wiki/Bhai_Bala"
+    },
+    {
+      "id": "baba-buddha",
+      "name": {
+        "pa": "ਬਾਬਾ ਬੁੱਢਾ ਜੀ",
+        "en": "Baba Buddha Ji"
+      },
+      "birth": 1506,
+      "death": 1631,
+      "category": "gursikh",
+      "guruId": "guru-nanak",
+      "wiki": "https://en.wikipedia.org/wiki/Baba_Buddha"
+    },
+    {
+      "id": "bhai-gurdas",
+      "name": {
+        "pa": "ਭਾਈ ਗੁਰਦਾਸ ਜੀ",
+        "en": "Bhai Gurdas Ji"
+      },
+      "birth": 1551,
+      "death": 1637,
+      "category": "gursikh",
+      "guruId": "guru-arjan",
+      "wiki": "https://en.wikipedia.org/wiki/Bhai_Gurdas"
+    },
+    {
+      "id": "bhai-bidhi-chand",
+      "name": {
+        "pa": "ਭਾਈ ਬਿਧੀ ਚੰਦ ਜੀ",
+        "en": "Bhai Bidhi Chand Ji"
+      },
+      "birth": 1579,
+      "death": 1638,
+      "category": "gursikh",
+      "guruId": "guru-hargobind",
+      "wiki": "https://en.wikipedia.org/wiki/Bidhi_Chand"
+    },
+    {
+      "id": "bhai-nand-lal",
+      "name": {
+        "pa": "ਭਾਈ ਨੰਦ ਲਾਲ ਜੀ",
+        "en": "Bhai Nand Lal Ji"
+      },
+      "birth": 1633,
+      "death": 1713,
+      "category": "gursikh",
+      "guruId": "guru-gobindsingh",
+      "wiki": "https://en.wikipedia.org/wiki/Bhai_Nand_Lal"
+    },
+    {
+      "id": "bhai-mati-das",
+      "name": {
+        "pa": "ਭਾਈ ਮਤੀ ਦਾਸ ਜੀ",
+        "en": "Bhai Mati Das Ji"
+      },
+      "birth": 1641,
+      "death": 1675,
+      "category": "gursikh",
+      "guruId": "guru-teghbahadur",
+      "wiki": "https://en.wikipedia.org/wiki/Bhai_Mati_Das"
+    },
+    {
+      "id": "bhai-sati-das",
+      "name": {
+        "pa": "ਭਾਈ ਸਤੀ ਦਾਸ ਜੀ",
+        "en": "Bhai Sati Das Ji"
+      },
+      "birth": 1642,
+      "death": 1675,
+      "category": "gursikh",
+      "guruId": "guru-teghbahadur",
+      "wiki": "https://en.wikipedia.org/wiki/Bhai_Sati_Das"
+    },
+    {
+      "id": "bhai-dayala",
+      "name": {
+        "pa": "ਭਾਈ ਦਯਾਲਾ ਜੀ",
+        "en": "Bhai Dayala Ji"
+      },
+      "birth": 1643,
+      "death": 1675,
+      "category": "gursikh",
+      "guruId": "guru-teghbahadur",
+      "wiki": "https://en.wikipedia.org/wiki/Bhai_Dayala"
+    },
+    {
+      "id": "peer-buddhu-shah",
+      "name": {
+        "pa": "ਪੀਰ ਬੁੱਧੂ ਸ਼ਾਹ ਜੀ",
+        "en": "Peer Buddhu Shah"
+      },
+      "birth": 1647,
+      "death": 1704,
+      "category": "gursikh",
+      "guruId": "guru-gobindsingh",
+      "wiki": "https://en.wikipedia.org/wiki/Pir_Buddhu_Shah"
+    },
+    {
+      "id": "bhai-kanhiya",
+      "name": {
+        "pa": "ਭਾਈ ਕਨ੍ਹਈਆ ਜੀ",
+        "en": "Bhai Kanhiya Ji"
+      },
+      "birth": 1648,
+      "death": 1718,
+      "category": "gursikh",
+      "guruId": "guru-gobindsingh",
+      "wiki": "https://en.wikipedia.org/wiki/Bhai_Kanhaiya"
+    },
+    {
+      "id": "bhai-jiwan-singh",
+      "name": {
+        "pa": "ਭਾਈ ਜੀਵਨ ਸਿੰਘ (ਭਾਈ ਜੈਤਾ) ਜੀ",
+        "en": "Bhai Jiwan Singh (Bhai Jaita) Ji"
+      },
+      "birth": 1661,
+      "death": 1704,
+      "category": "gursikh",
+      "guruId": "guru-gobindsingh",
+      "wiki": "https://en.wikipedia.org/wiki/Bhai_Jaita"
+    },
+    {
+      "id": "bhai-himmat-singh",
+      "name": {
+        "pa": "ਪਿਆਰੇ ਭਾਈ ਹਿੰਮਤ ਸਿੰਘ ਜੀ",
+        "en": "Pyare Bhai Himmat Singh Ji"
+      },
+      "birth": 1661,
+      "death": 1705,
+      "category": "gursikh",
+      "guruId": "guru-gobindsingh",
+      "wiki": "https://en.wikipedia.org/wiki/Himmat_Singh"
+    },
+    {
+      "id": "bhai-sahib-singh",
+      "name": {
+        "pa": "ਪਿਆਰੇ ਭਾਈ ਸਾਹਿਬ ਸਿੰਘ ਜੀ",
+        "en": "Pyare Bhai Sahib Singh Ji"
+      },
+      "birth": 1662,
+      "death": 1705,
+      "category": "gursikh",
+      "guruId": "guru-gobindsingh",
+      "wiki": "https://en.wikipedia.org/wiki/Sahib_Singh_(Panj_Pyare)"
+    },
+    {
+      "id": "bhai-mohkam-singh",
+      "name": {
+        "pa": "ਪਿਆਰੇ ਭਾਈ ਮੋਹਕਮ ਸਿੰਘ ਜੀ",
+        "en": "Pyare Bhai Mohkam Singh Ji"
+      },
+      "birth": 1663,
+      "death": 1705,
+      "category": "gursikh",
+      "guruId": "guru-gobindsingh",
+      "wiki": "https://en.wikipedia.org/wiki/Mohkam_Singh"
+    },
+    {
+      "id": "bhai-dharam-singh",
+      "name": {
+        "pa": "ਪਿਆਰੇ ਭਾਈ ਧਰਮ ਸਿੰਘ ਜੀ",
+        "en": "Pyare Bhai Dharam Singh Ji"
+      },
+      "birth": 1666,
+      "death": 1708,
+      "category": "gursikh",
+      "guruId": "guru-gobindsingh",
+      "wiki": "https://en.wikipedia.org/wiki/Dharam_Singh_(Sikhism)"
+    },
+    {
+      "id": "bhai-daya-singh",
+      "name": {
+        "pa": "ਪਿਆਰੇ ਭਾਈ ਦਯਾ ਸਿੰਘ ਜੀ",
+        "en": "Pyare Bhai Daya Singh Ji"
+      },
+      "birth": 1669,
+      "death": 1708,
+      "category": "gursikh",
+      "guruId": "guru-gobindsingh",
+      "wiki": "https://en.wikipedia.org/wiki/Daya_Singh"
+    },
+    {
+      "id": "bhai-mani-singh",
+      "name": {
+        "pa": "ਭਾਈ ਮਨੀ ਸਿੰਘ ਜੀ",
+        "en": "Bhai Mani Singh Ji"
+      },
+      "birth": 1670,
+      "death": 1737,
+      "category": "gursikh",
+      "guruId": "guru-gobindsingh",
+      "wiki": "https://en.wikipedia.org/wiki/Bhai_Mani_Singh"
+    },
+    {
+      "id": "banda-singh-bahadur",
+      "name": {
+        "pa": "ਬਾਬਾ ਬੰਦਾ ਸਿੰਘ ਬਹਾਦਰ",
+        "en": "Baba Banda Singh Bahadur"
+      },
+      "birth": 1670,
+      "death": 1716,
+      "category": "gursikh",
+      "guruId": "guru-gobindsingh",
+      "wiki": "https://en.wikipedia.org/wiki/Banda_Singh_Bahadur"
+    },
+    {
+      "id": "baba-deep-singh",
+      "name": {
+        "pa": "ਬਾਬਾ ਦੀਪ ਸਿੰਘ ਜੀ",
+        "en": "Baba Deep Singh Ji"
+      },
+      "birth": 1682,
+      "death": 1757,
+      "category": "gursikh",
+      "guruId": "guru-gobindsingh",
+      "wiki": "https://en.wikipedia.org/wiki/Baba_Deep_Singh"
+    },
+    {
+      "id": "nawab-kapur-singh",
+      "name": {
+        "pa": "ਨਵਾਬ ਕਪੂਰ ਸਿੰਘ ਜੀ",
+        "en": "Nawab Kapur Singh"
+      },
+      "birth": 1697,
+      "death": 1753,
+      "category": "gursikh",
+      "wiki": "https://en.wikipedia.org/wiki/Nawab_Kapur_Singh"
+    },
+    {
+      "id": "bhai-subeg-singh",
+      "name": {
+        "pa": "ਭਾਈ ਸੁਬੇਗ ਸਿੰਘ ਜੀ",
+        "en": "Bhai Subeg Singh Ji"
+      },
+      "birth": 1710,
+      "death": 1745,
+      "category": "gursikh",
+      "wiki": "https://en.wikipedia.org/wiki/Subeg_Singh"
+    },
+    {
+      "id": "bhai-taru-singh",
+      "name": {
+        "pa": "ਭਾਈ ਤਾਰੂ ਸਿੰਘ ਜੀ",
+        "en": "Bhai Taru Singh Ji"
+      },
+      "birth": 1720,
+      "death": 1745,
+      "category": "gursikh",
+      "wiki": "https://en.wikipedia.org/wiki/Bhai_Taru_Singh"
+    }
+  ],
+  "events": [
+    {
+      "id": "udasi-1",
+      "year": 1501,
+      "title": {
+        "pa": "ਪਹਿਲੀ ਉਦਾਸੀ",
+        "en": "1st Udasi"
+      },
+      "guruId": "guru-nanak",
+      "wiki": "https://en.wikipedia.org/wiki/Udasis_of_Guru_Nanak"
+    },
+    {
+      "id": "udasi-2",
+      "year": 1510,
+      "title": {
+        "pa": "ਦੂਸਰੀ ਉਦਾਸੀ",
+        "en": "2nd Udasi"
+      },
+      "guruId": "guru-nanak",
+      "wiki": "https://en.wikipedia.org/wiki/Udasis_of_Guru_Nanak"
+    },
+    {
+      "id": "udasi-3",
+      "year": 1514,
+      "title": {
+        "pa": "ਤੀਸਰੀ ਉਦਾਸੀ",
+        "en": "3rd Udasi"
+      },
+      "guruId": "guru-nanak",
+      "wiki": "https://en.wikipedia.org/wiki/Udasis_of_Guru_Nanak"
+    },
+    {
+      "id": "udasi-4",
+      "year": 1518,
+      "title": {
+        "pa": "ਚੌਥੀ ਉਦਾਸੀ",
+        "en": "4th Udasi"
+      },
+      "guruId": "guru-nanak",
+      "wiki": "https://en.wikipedia.org/wiki/Udasis_of_Guru_Nanak"
+    },
+    {
+      "id": "lehna-milaap",
+      "year": 1532,
+      "title": {
+        "pa": "ਭਾਈ ਲਹਿਣਾ ਜੀ ਦਾ ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ ਨਾਲ ਮਿਲਾਪ",
+        "en": "Bhai Lehna Ji first meets Guru Nanak Dev Ji"
+      },
+      "guruId": "guru-nanak"
+    },
+    {
+      "id": "seva-angad",
+      "year": 1541,
+      "endYear": 1552,
+      "title": {
+        "pa": "ਸ੍ਰੀ ਗੁਰੂ ਅੰਗਦ ਦੇਵ ਜੀ ਦੀ ਸੇਵਾ ਵਿੱਚ",
+        "en": "Service to Sri Guru Angad Dev Ji"
+      },
+      "guruId": "guru-amardas"
+    },
+    {
+      "id": "goindwal",
+      "year": 1549,
+      "title": {
+        "pa": "ਗੋਇੰਦਵਾਲ ਵਸਾਇਆ",
+        "en": "Established Goindwal"
+      },
+      "guruId": "guru-amardas",
+      "wiki": "https://en.wikipedia.org/wiki/Goindval"
+    },
+    {
+      "id": "bowli-sahib",
+      "year": 1559,
+      "endYear": 1564,
+      "title": {
+        "pa": "ਬਾਉਲੀ ਸਾਹਿਬ ਦੀ ਉਸਾਰੀ",
+        "en": "Bowli Sahib construction"
+      },
+      "guruId": "guru-amardas"
+    },
+    {
+      "id": "santokhsar",
+      "year": 1570,
+      "title": {
+        "pa": "ਸੰਤੋਖਸਰ ਦੀ ਖੁਦਵਾਈ ਅਰੰਭੀ",
+        "en": "Digging of Santokhsar started"
+      },
+      "guruId": "guru-ramdas"
+    },
+    {
+      "id": "guru-ka-chak",
+      "year": 1572,
+      "title": {
+        "pa": "'ਗੁਰੂ ਕਾ ਚੱਕ' ਵਸਾਇਆ",
+        "en": "Established 'Guru Ka Chak'"
+      },
+      "guruId": "guru-ramdas",
+      "wiki": "https://en.wikipedia.org/wiki/Amritsar"
+    },
+    {
+      "id": "amritsar-sarovar",
+      "year": 1577,
+      "title": {
+        "pa": "ਅੰਮ੍ਰਿਤਸਰ ਸਰੋਵਰ ਦੀ ਤਿਆਰੀ ਅਰੰਭੀ",
+        "en": "Planning of Amritsar Sarovar"
+      },
+      "guruId": "guru-ramdas"
+    },
+    {
+      "id": "harmandir-sahib",
+      "year": 1589,
+      "title": {
+        "pa": "ਹਰਿਮੰਦਰ ਸਾਹਿਬ ਦੀ ਨੀਂਹ",
+        "en": "Foundation of Harmandir Sahib"
+      },
+      "guruId": "guru-arjan",
+      "wiki": "https://en.wikipedia.org/wiki/Golden_Temple"
+    },
+    {
+      "id": "tarn-taran",
+      "year": 1596,
+      "title": {
+        "pa": "ਤਰਨ ਤਾਰਨ ਵਸਾਇਆ",
+        "en": "Established Tarn Taran"
+      },
+      "guruId": "guru-arjan",
+      "wiki": "https://en.wikipedia.org/wiki/Tarn_Taran_Sahib"
+    },
+    {
+      "id": "aad-granth",
+      "year": 1604,
+      "title": {
+        "pa": "ਆਦਿ ਗ੍ਰੰਥ ਜੀ ਦੀ ਬੀੜ ਤਿਆਰ ਹੋਈ",
+        "en": "Aad Granth Ji completed"
+      },
+      "guruId": "guru-arjan",
+      "wiki": "https://en.wikipedia.org/wiki/Adi_Granth"
+    },
+    {
+      "id": "akal-takht",
+      "year": 1609,
+      "title": {
+        "pa": "ਸ੍ਰੀ ਅਕਾਲ ਤਖਤ ਸਾਹਿਬ ਉਸਾਰਿਆ",
+        "en": "Established Sri Akal Takht Sahib"
+      },
+      "guruId": "guru-hargobind",
+      "wiki": "https://en.wikipedia.org/wiki/Akal_Takht"
+    },
+    {
+      "id": "gwalior-fort",
+      "year": 1611,
+      "endYear": 1612,
+      "title": {
+        "pa": "ਗਵਾਲੀਅਰ ਕਿਲ੍ਹੇ ਵਿਚ",
+        "en": "At Gwalior Fort"
+      },
+      "guruId": "guru-hargobind",
+      "wiki": "https://en.wikipedia.org/wiki/Bandi_Chhor_Divas"
+    },
+    {
+      "id": "battle-pipli",
+      "year": 1628,
+      "title": {
+        "pa": "ਪਿਪਲੀ ਸਾਹਿਬ ਦਾ ਜੰਗ",
+        "en": "Battle at Pipli Sahib"
+      },
+      "guruId": "guru-hargobind"
+    },
+    {
+      "id": "battle-hargobindpur",
+      "year": 1630,
+      "title": {
+        "pa": "ਸ੍ਰੀ ਹਰਿਗੋਬਿੰਦਪੁਰ ਦੀ ਜੰਗ",
+        "en": "Battle at Sri Hargobindpur"
+      },
+      "guruId": "guru-hargobind"
+    },
+    {
+      "id": "battle-mehraj",
+      "year": 1631,
+      "title": {
+        "pa": "ਮਹਿਰਾਜ ਦਾ ਜੰਗ",
+        "en": "Battle at Mehraj"
+      },
+      "guruId": "guru-hargobind"
+    },
+    {
+      "id": "battle-kartarpur",
+      "year": 1634,
+      "title": {
+        "pa": "ਕਰਤਾਰਪੁਰ ਦਾ ਜੰਗ",
+        "en": "Battle at Kartarpur"
+      },
+      "guruId": "guru-hargobind",
+      "wiki": "https://en.wikipedia.org/wiki/Battle_of_Kartarpur"
+    },
+    {
+      "id": "ram-rai-aurangzeb",
+      "year": 1658,
+      "title": {
+        "pa": "ਬਾਬਾ ਰਾਮ ਰਾਇ ਜੀ ਦਾ ਕਰਾਮਾਤਾਂ ਦਿਖਾਉਣਾ",
+        "en": "Baba Ram Rai sent to Aurangzeb"
+      },
+      "guruId": "guru-harrai"
+    },
+    {
+      "id": "anandpur-sahib",
+      "year": 1665,
+      "title": {
+        "pa": "ਸ੍ਰੀ ਅਨੰਦਪੁਰ ਸਾਹਿਬ ਵਸਾਇਆ",
+        "en": "Established Sri Anandpur Sahib"
+      },
+      "guruId": "guru-teghbahadur",
+      "wiki": "https://en.wikipedia.org/wiki/Anandpur_Sahib"
+    },
+    {
+      "id": "kashmiri-pandits",
+      "year": 1675,
+      "title": {
+        "pa": "ਕਸ਼ਮੀਰ ਦੇ ਪੰਡਤਾਂ ਦੀ ਫਰਿਯਾਦ",
+        "en": "Ardas of Kashmiri Pandits"
+      },
+      "guruId": "guru-teghbahadur"
+    },
+    {
+      "id": "battle-bhangani",
+      "year": 1685,
+      "title": {
+        "pa": "ਭੰਗਾਣੀ ਦੀ ਜੰਗ",
+        "en": "Battle of Bhangani"
+      },
+      "guruId": "guru-gobindsingh",
+      "wiki": "https://en.wikipedia.org/wiki/Battle_of_Bhangani"
+    },
+    {
+      "id": "hola-mohalla",
+      "year": 1687,
+      "title": {
+        "pa": "ਹੋਲਾ ਮਹੱਲਾ ਦੀ ਅਰੰਭਤਾ",
+        "en": "Hola Mohalla started"
+      },
+      "guruId": "guru-gobindsingh",
+      "wiki": "https://en.wikipedia.org/wiki/Hola_Mohalla"
+    },
+    {
+      "id": "battle-nadaun",
+      "year": 1690,
+      "title": {
+        "pa": "ਨਦੌਨ ਦੀ ਜੰਗ",
+        "en": "Battle of Nadaun"
+      },
+      "guruId": "guru-gobindsingh",
+      "wiki": "https://en.wikipedia.org/wiki/Battle_of_Nadaun"
+    },
+    {
+      "id": "khalsa-sajna",
+      "year": 1699,
+      "title": {
+        "pa": "ਖਾਲਸਾ ਸਾਜਣਾ (ਵੈਸਾਖੀ)",
+        "en": "Khalsa Sajna (Vaisakhi)"
+      },
+      "guruId": "guru-gobindsingh",
+      "wiki": "https://en.wikipedia.org/wiki/Khalsa"
+    },
+    {
+      "id": "anandpur-battle-1",
+      "year": 1700,
+      "title": {
+        "pa": "ਅਨੰਦਪੁਰ ਸਾਹਿਬ ਦੀ ਪਹਿਲੀ ਲੜਾਈ",
+        "en": "First Battle of Anandpur Sahib"
+      },
+      "guruId": "guru-gobindsingh",
+      "wiki": "https://en.wikipedia.org/wiki/Battle_of_Anandpur_(1700)"
+    },
+    {
+      "id": "anandpur-battle-4",
+      "year": 1704,
+      "title": {
+        "pa": "ਅਨੰਦਪੁਰ ਸਾਹਿਬ ਦੀ ਚੌਥੀ ਲੜਾਈ",
+        "en": "4th Battle of Anandpur Sahib"
+      },
+      "guruId": "guru-gobindsingh",
+      "wiki": "https://en.wikipedia.org/wiki/Second_Battle_of_Anandpur"
+    },
+    {
+      "id": "banda-baptized",
+      "year": 1707,
+      "title": {
+        "pa": "ਬੰਦਾ ਬਹਾਦੁਰ ਨੂੰ ਸਿੰਘ ਸਜਾਣਾ",
+        "en": "Banda Bahadur baptized"
+      },
+      "guruId": "guru-gobindsingh"
+    },
+    {
+      "id": "sirhind-captured",
+      "year": 1710,
+      "title": {
+        "pa": "ਬਾਬਾ ਬੰਦਾ ਸਿੰਘ ਨੇ ਸਰਹਿੰਦ ਫਤਹਿ ਕੀਤਾ",
+        "en": "Baba Banda Singh captured Sirhind"
+      },
+      "wiki": "https://en.wikipedia.org/wiki/Battle_of_Chappar_Chiri"
+    },
+    {
+      "id": "banda-captured",
+      "year": 1715,
+      "title": {
+        "pa": "ਬਾਬਾ ਬੰਦਾ ਸਿੰਘ ਅਤੇ ੭੪੦ ਸਿੰਘ ਗ੍ਰਿਫ਼ਤਾਰ",
+        "en": "Baba Banda Singh + 740 Singhs captured"
+      }
+    },
+    {
+      "id": "sarbat-khalsa-1720",
+      "year": 1720,
+      "title": {
+        "pa": "ਬਾਬਾ ਕਾਹਨ ਸਿੰਘ ਵੱਲੋਂ ਸਰਬੱਤ ਖਾਲਸਾ",
+        "en": "Baba Kahn Singh calls for Sarbat Khalsa"
+      }
+    },
+    {
+      "id": "zakaria-governor",
+      "year": 1726,
+      "title": {
+        "pa": "ਜ਼ਕਰੀਆ ਖਾਨ ਲਾਹੌਰ ਦਾ ਗਵਰਨਰ ਬਣਿਆ",
+        "en": "Zakaria Khan becomes governor of Lahore"
+      }
+    },
+    {
+      "id": "nawabi-khalsa",
+      "year": 1733,
+      "title": {
+        "pa": "ਭਾਈ ਸੁਬੇਗ ਸਿੰਘ ਵੱਲੋਂ ਖਾਲਸੇ ਨੂੰ ਨਵਾਬੀ ਪੇਸ਼",
+        "en": "Bhai Subeg Singh offers Nawabi to Khalsa"
+      }
+    },
+    {
+      "id": "mani-singh-shaheedi",
+      "year": 1734,
+      "title": {
+        "pa": "ਭਾਈ ਮਨੀ ਸਿੰਘ ਜੀ ਸ਼ਹੀਦੀ",
+        "en": "Bhai Mani Singh Ji Shaheedi"
+      },
+      "wiki": "https://en.wikipedia.org/wiki/Bhai_Mani_Singh"
+    },
+    {
+      "id": "dals-created",
+      "year": 1734,
+      "title": {
+        "pa": "ਤਰਨਾ ਦਲ ਅਤੇ ਬੁੱਢਾ ਦਲ ਦੀ ਸਥਾਪਨਾ",
+        "en": "Tarna Dal and Buddha Dal created"
+      },
+      "wiki": "https://en.wikipedia.org/wiki/Buddha_Dal"
+    },
+    {
+      "id": "massa-rangar",
+      "year": 1740,
+      "title": {
+        "pa": "ਮੱਸਾ ਰੰਗੜ ਦਾ ਸਿਰ ਵੱਢਿਆ",
+        "en": "Massa Rangar beheaded"
+      }
+    },
+    {
+      "id": "sirhind-again",
+      "year": 1740,
+      "title": {
+        "pa": "ਸਿੰਘਾਂ ਨੇ ਸਰਹਿੰਦ ਮੁੜ ਫਤਹਿ ਕੀਤਾ",
+        "en": "Singhs capture Sirhind again"
+      }
+    },
+    {
+      "id": "taru-singh-shaheedi",
+      "year": 1745,
+      "title": {
+        "pa": "ਭਾਈ ਤਾਰੂ ਸਿੰਘ ਜੀ ਸ਼ਹੀਦੀ",
+        "en": "Zakaria Khan dies; Bhai Taru Singh Ji Shaheedi"
+      },
+      "wiki": "https://en.wikipedia.org/wiki/Bhai_Taru_Singh"
+    },
+    {
+      "id": "subeg-shahbaz-shaheedi",
+      "year": 1746,
+      "title": {
+        "pa": "ਭਾਈ ਸੁਬੇਗ ਸਿੰਘ ਅਤੇ ਸ਼ਾਹਬਾਜ਼ ਸਿੰਘ ਸ਼ਹੀਦੀ",
+        "en": "Bhai Subeg Singh & Shahbaz Singh Shaheedi"
+      }
+    },
+    {
+      "id": "chhota-ghalughara",
+      "year": 1746,
+      "title": {
+        "pa": "ਛੋਟਾ ਘੱਲੂਘਾਰਾ",
+        "en": "Chhota Ghalughara"
+      },
+      "wiki": "https://en.wikipedia.org/wiki/Chhota_Ghallughara"
+    },
+    {
+      "id": "vadda-ghalughara",
+      "year": 1762,
+      "title": {
+        "pa": "ਵੱਡਾ ਘੱਲੂਘਾਰਾ",
+        "en": "Vadda Ghalughara"
+      },
+      "wiki": "https://en.wikipedia.org/wiki/Vadda_Ghallughara"
+    }
+  ]
+}

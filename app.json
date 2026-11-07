@@ -1,17 +1,24 @@
 {
   "expo": {
-    "name": "sikh-timeline",
+    "name": "Sikh Timeline",
     "slug": "sikh-timeline",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0F1115",
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.giansingh.sikhtimeline",
+      "appleTeamId": "UXX67B9ASA",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
+      "package": "com.giansingh.sikhtimeline",
       "adaptiveIcon": {
-        "backgroundColor": "#E6F4FE",
+        "backgroundColor": "#0F1115",
         "foregroundImage": "./assets/android-icon-foreground.png",
         "backgroundImage": "./assets/android-icon-background.png",
         "monochromeImage": "./assets/android-icon-monochrome.png"
@@ -20,6 +27,16 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      "expo-font",
+      ["expo-build-properties", { "ios": { "enableSceneSupport": true } }]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "70e113eb-c803-4002-97f6-3580a293bc0a"
+      }
+    },
+    "owner": "giansingh4710"
   }
 }
